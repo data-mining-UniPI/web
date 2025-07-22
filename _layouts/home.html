@@ -33,7 +33,7 @@ layout: default
                 <h2>Lecturers</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <img src="{{ins.profile_pic }}" class="image--cover">
                     {% if ins.webpage %}
                     <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
                     {% else %}
@@ -50,7 +50,7 @@ layout: default
                 <h2>Teaching Assistants</h2>
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <img src="{{ta.profile_pic }}" class="image--cover">
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
