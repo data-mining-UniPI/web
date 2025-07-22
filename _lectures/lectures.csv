@@ -1,0 +1,29 @@
+lecturer,lecture_type,module,date,lecture,notes,slides,notebooks
+"Monreale","Lecture",dm,"2025-09-16T11:00:00","Course overview","",,
+"Monreale","Lecture",dm,"2025-09-17T11:00:00","Data understanding","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/data_understanding",
+"Setzu","Lecture",dm,"2025-09-18T11:00:00","Data representation","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/data%20representation",
+"Monreale","Lecture",dm,"2025-09-23T11:00:00","Data handling","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/data_handling",
+"Monreale","Lecture",dm,"2025-09-24T11:00:00","Coding","",,"https://github.com/data-mining-UniPI/teaching25/tree/main/??"
+"Monreale","Lecture",dm,"2025-09-25T11:00:00","Centroid-based clustering","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/clustering",
+"Monreale","Lecture",dm,"2025-09-30T11:00:00","Hierarchical clustering","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/clustering",
+"Monreale","Lecture",dm,"2025-10-01T11:00:00","Density-based clustering","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/clustering",
+"Monreale","Coding",dm,"2025-10-02T11:00:00","Clustering validation","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/clustering","https://github.com/data-mining-UniPI/teaching25/tree/main/??"
+"Setzu","Lecture",dm,"2025-10-7T11:00:00","Outlier detection","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/anomaly%20detection",
+"Setzu","Lecture",dm,"2025-10-08T11:00:00","Outlier detection","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/anomaly%20detection",
+"Monreale","Lecture",dm,"2025-10-9T11:00:00","Coding","",,"https://github.com/data-mining-UniPI/teaching25/tree/main"
+"Monreale","Lecture",dm,"2025-10-14T11:00:00","Rule Mining: Apriori","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Coding",dm,"2025-10-15T11:00:00","Rule Mining: FP-Growth","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Lecture",dm,"2025-10-16T11:00:00","SPM","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Lecture",dm,"2025-10-21T11:00:00","SPM","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Coding",dm,"2025-10-22T11:00:00","Coding","Coding",,"https://github.com/data-mining-UniPI/teaching25/tree/main/??"
+"Setzu","Lecture",dm,"2025-10-23T11:00:00","Supervised learning","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/supervised%20learning",
+"Monreale","Coding",dm,"2025-10-28T11:00:00","Tree models","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Coding",dm,"2025-10-29T11:00:00","Rule models and case-based models","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Setzu","Lecture",dm,"2025-10-30T11:00:00","Advanced models","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/models",
+"Setzu","Lecture",dm,"2025-11-04T11:00:00","Neural networks","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/neural_networks",
+"Setzu","Lecture",dm,"2025-11-05T11:00:00","Coding","",,"https://github.com/data-mining-UniPI/teaching25/tree/main/??"
+"Setzu","Lecture",dm,"2025-11-06T11:00:00","Time series","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/time%20series",
+"Setzu","Lecture",dm,"2025-11-11T11:00:00","Time series","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/time%20series",
+"Setzu","Lecture",dm,"2025-11-12T11:00:00","Coding","",,"https://github.com/data-mining-UniPI/teaching25/tree/main/??"
+"Monreale","Lecture",dm,"2025-11-13T11:00:00","Privacy","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",
+"Monreale","Lecture",dm,"2025-11-18T11:00:00","Explainable AI","","https://github.com/data-mining-UniPI/teaching25/tree/lectures/??",

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+
+    {% include announcements.html %}
+    <br />
+    
+    
+    The Data Mining course tackles the analysis of large collections of data, and the extraction of information and patterns.
+    It aims to explore core components of the Knowledge Discovery from Data (KDD) process, and focuses on:
+    <ul>
+        <li>Data understanding</li>
+        <li>Data cleaning, preparation, and transformation</li>
+        <li>Data analysis: outlier detection and data representation</li>
+        <li>Data clustering</li>
+        <li>Pattern extraction: itemset, rules, association rules, and sequential patterns</li>
+        <li>Responsible data use: privacy and interpretability</li>
+    </ul>
+    <br>
+    <div>
+        <div style="width:35%; float: left">
+            <!-- <h2>Instructors</h2> -->
+            <!-- <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div> -->
+
+            <div class="profile-pic-gallary ">
+                <h2>Lecturers</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+
+         <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Teaching Assistants</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ta.webpage %}
+                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+</div>
