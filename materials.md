@@ -19,8 +19,8 @@ permalink: /materials/
 ### Machine learning and Explainable AI
 - [Deep learning](https://github.com/janishar/mit-deep-learning-book-pdf) by *Ian Goodfellow, Yoshua Bengio, Aaron Courville*
 - [Shapelets](https://dl.acm.org/doi/10.1145/1557019.1557122) by *Lexiang Ye and Eamonn Keogh*
-- [LIME](https://dl.acm.org/doi/10.1145/2939672.2939778)
-- [LORE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8920138)
+- [LIME](https://dl.acm.org/doi/10.1145/2939672.2939778) by *Marco Tullio Ribeiro, Sameer Singh, Carlos Guestrin*
+- [LORE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8920138) by *Riccardo Guidotti, Anna Monreale, Fosca Giannotti, Dino Pedreschi, Salvatore Ruggieri, Franco Turini*
 
 
 
