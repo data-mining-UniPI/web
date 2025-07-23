@@ -308,13 +308,7 @@ ul#archive li span.postlower a {
 }
 
 article ul {
-  list-style-type: none;
-}
-
-article ul > li:before {
-  content: "–"; /* en dash */
-  position: absolute;
-  margin-left: -1.1em; 
+  list-style-type: disc;
 }
 
 article ul#archive > li:before {
