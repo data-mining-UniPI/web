@@ -3,7 +3,7 @@ course_name: Data Mining
 course_description: "The knowledge discovery of databases"
 course_semester: "Fall 2025"
 
-baseurl: "/teach25" # the subpath of your site, e.g. /blog/
+baseurl: "/web" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 schoolname: "University of Pisa"
