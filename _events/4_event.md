@@ -1,9 +1,10 @@
 ---
-type: exam
-date: 2025-11-27T13:00:00
-description: "Paper presentations"
+type: due
+date: 2026-01-07T22:59:00
+description: "Project delivery"
+title: "Project delivery"
 links:
-- url: https://drive.google.com/drive/folders/1d2TPDviup5ZsA-TrwRHdMa6jneLAtyV6?usp=sharing
+- url: /project
   name: folder
 hide_from_announcments: true
 ---

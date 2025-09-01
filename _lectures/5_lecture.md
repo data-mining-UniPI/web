@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-09-25T11:00:00
-title: "Centroid-based clustering"
+date: 2025-10-1T11:00:00
+title: "Coding"
 lecture_type: Lecture
 thumbnail: /static_files/presentations/lec.jpg
 links:
-- url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/??
-  name: slides
+- url: https://github.com/data-mining-UniPI/teaching25/tree/main/notebooks
+  name: notebook
 hide_from_announcments: true
 ---

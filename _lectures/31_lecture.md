@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-9-30T11:00:00
-title: "Data visualization"
+date: 2025-12-4T11:00:00
+title: "Coding"
 lecture_type: Lecture
 thumbnail: /static_files/presentations/lec.jpg
 links:
-- url: https://github.com/data-mining-UniPI/teaching25/tree/main/data_understanding
+- url: https://github.com/data-mining-UniPI/teaching25/tree/main/notebooks
   name: notebook
 hide_from_announcments: true
 ---

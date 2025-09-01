@@ -1,9 +1,8 @@
 ---
-type: exam
-date: 2025-11-26T10:00:00
-description: "Paper presentations"
+type: assignment
+date: 2025-12-17T11:00:00
+description: "Project presentation"
+title: "Project presentation"
 links:
-- url: https://drive.google.com/drive/folders/1d2TPDviup5ZsA-TrwRHdMa6jneLAtyV6?usp=sharing
-  name: folder
 hide_from_announcments: true
 ---

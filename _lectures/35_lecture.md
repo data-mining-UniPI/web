@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-11-25T11:00:00
-title: "Neural networks"
+date: 2025-12-16T11:00:00
+title: "XAI in the real world"
 lecture_type: Lecture
 thumbnail: /static_files/presentations/lec.jpg
 links:
-- url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/machine%20learning
+- url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/human_centered
   name: slides
 hide_from_announcments: true
 ---

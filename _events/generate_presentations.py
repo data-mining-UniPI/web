@@ -8,6 +8,7 @@ for i, row in df.iterrows():
 type: {row['event_type']}
 date: {row['date']}
 description: "{row['name']}"
+title: "{row['name']}"
 """
 
     base += "links:\n"

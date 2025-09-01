@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-09-18T11:00:00
+date: 2025-9-24T11:00:00
 title: "Data representation"
 lecture_type: Lecture
 thumbnail: /static_files/presentations/lec.jpg

@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2025-10-21T11:00:00
-title: "SPM"
+date: 2025-10-23T11:00:00
+title: "Rule Mining: Apriori"
 lecture_type: Lecture
 thumbnail: /static_files/presentations/lec.jpg
 links:
-- url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/??
+- url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/rule_mining
   name: slides
 hide_from_announcments: true
 ---
