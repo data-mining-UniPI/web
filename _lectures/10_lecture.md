@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-10-14T11:00:00
+date: 2025-10-15T11:00:00
 title: "Coding"
 lecture_type: Coding
 thumbnail: /static_files/presentations/lec.jpg
@@ -9,5 +9,6 @@ links:
   name: slides
 - url: https://github.com/data-mining-UniPI/teaching25/tree/main/notebooks
   name: notebook
+hide_from_calendar: true
 hide_from_announcments: true
 ---

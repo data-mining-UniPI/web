@@ -7,5 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links:
 - url: https://github.com/data-mining-UniPI/teaching25/tree/lectures/intro
   name: slides
+hide_from_calendar: true
 hide_from_announcments: true
 ---

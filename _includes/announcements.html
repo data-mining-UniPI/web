@@ -16,6 +16,8 @@
 <h2>Updates</h2>
 <ul>
     {% for n in all_events_sorted limit:7 %}
+    {% if n.hide_from_announcments %}
+    {% else %}
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
@@ -24,12 +26,13 @@
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
-                {{ n.description }}
+                [{{ n.date | date: "%d / %m"}}]: {{ n.description }}
             {% endif %}
         {% else %}
         {{ n.content }}
         {% endif %}
     </li>
+    {% endif %}
     {% endfor %}
 </ul>
 {% endif %}

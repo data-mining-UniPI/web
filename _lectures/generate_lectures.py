@@ -20,6 +20,7 @@ thumbnail: /static_files/presentations/lec.jpg
         base += f"- url: {row['notebooks']}\n  name: notebook\n"
 
     # need a newline
+    base += "hide_from_calendar: true\n"
     base += "hide_from_announcments: true\n---"
     
     if isinstance(row["notes"], str):

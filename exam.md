@@ -25,11 +25,13 @@ Note that **a passing grade for the project/written exam is required to be admit
 The written exam covers the whole program, and can include both theoretical questions and exercises.
 
 ## Project
-Details on the project are indicated in [the dedicated page](/project).
+Details on the project are indicated in the dedicated page.
 
 ## Oral exam
 Dates TBA.
 
 # Groups
 
-The project must be done in groups. You can write down [here](https://docs.google.com/spreadsheets/d/1qvFpd0UYH70tXkNVG7-v2nsz3O8RDHlX1v_FZQ53-iU/edit?usp=sharing) your group, indicating members and a group name.
+The project must be done in groups: please indicate [here](https://docs.google.com/spreadsheets/d/1Xl8Hd-giIuJQw0x2NDkXjbGZ2REGF-OukqC5XGU6pzA/edit?usp=sharing) your group.
+
+You can work on the project during the course. In the project presentation lectures (indicated in the schedule) you can briefly present (~3 minutes) your progress on the project, and receive feedback from the lecturers.
